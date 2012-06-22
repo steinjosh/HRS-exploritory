@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Query>
+<Query  virtualSchemaName = "default" formatter = "TSV" header = "0" uniqueRows = "0" count = "" datasetConfigVersion = "0.7" >
+			
+	<Dataset name = "sbicolor_eg_gene" interface = "default" >
+		<Filter name = "ensembl_gene_id" value = "my_gene_list"/>
+		<Attribute name = "ensembl_gene_id" />
+		<Attribute name = "osativa_eg_gene" />
+		<Attribute name = "osativa_eg_orthology_type" />
+		<Attribute name = "osativa_eg_homolog_perc_id" />
+		<Attribute name = "osativa_eg_homolog_perc_id_r1" />
+	</Dataset>
+</Query>
