@@ -1,0 +1,232 @@
+use Bio::EnsEMBL::DBSQL::DBAdaptor; 
+use Bio::EnsEMBL::Variation::DBSQL::DBAdaptor;
+use Bio::EnsEMBL::Compara::DBSQL::DBAdaptor;
+use Bio::EnsEMBL::Registry;
+ 
+my $def_user = 'ensembl_rw';
+my $def_pass = '()ryz@';
+my $def_host = 'cabot';
+my $def_port = 3306;
+
+#----------------------------------------------------------------------
+# Species; alphabetical by genus
+
+Bio::EnsEMBL::DBSQL::DBAdaptor->new
+  ( '-species' => "Arabidopsis_thaliana", 
+    '-group'   => "core", 
+    '-port'    => $def_port,
+    '-host'    => $def_host, 
+    '-user'    => $def_user, 
+    '-pass'    => $def_pss,
+    '-dbname'  => "arabidopsis_thaliana_core_34b_65_10", 
+  ); 
+
+Bio::EnsEMBL::DBSQL::DBAdaptor->new
+  ( '-species' => "Brachypodium_distachyon",
+    '-group'   => "core", 
+    '-port'    => $def_port,
+    '-host'    => $def_host, 
+    '-user'    => $def_user, 
+    '-pass'    => $def_pass,
+    '-dbname'  => "brachypodium_distachyon_core_34b_65_12", 
+  ); 
+
+
+Bio::EnsEMBL::DBSQL::DBAdaptor->new
+  ( '-species' => 'Oryza_barthii',
+    '-group'   => 'core',
+    '-port'    => $def_port,
+    '-host'    => $def_host,
+    '-user'    => $def_user,
+    '-pass'    => $def_pass,
+    '-dbname'  => "oryza_barthii_core_34b_65_02",
+    );
+
+Bio::EnsEMBL::DBSQL::DBAdaptor->new
+  ( '-species' => 'Oryza_brachyantha',
+    '-group'   => 'core',
+    '-port'    => $def_port,
+    '-host'    => $def_host,
+    '-user'    => $def_user,
+    '-pass'    => $def_pass,
+    '-dbname'  => "oryza_brachyantha_core_34b_65_02",
+   );
+	
+Bio::EnsEMBL::DBSQL::DBAdaptor->new
+  ( '-species' => 'Oryza_glaberrima', 
+    '-group'   => 'core', 
+    '-port'    => $def_port,
+    '-host'    => $def_host, 
+    '-user'    => $def_user, 
+    '-pass'    => $def_pass,
+    '-dbname'  => "oryza_glaberrima_core_34b_65_2", 
+    ); 
+
+Bio::EnsEMBL::DBSQL::DBAdaptor->new
+  ( '-species' => 'Oryza_indica', 
+    '-group'   => 'core', 
+    '-port'    => $def_port,
+    '-host'    => $def_host, 
+    '-user'    => $def_user, 
+    '-pass'    => $def_pass,
+    '-dbname'  => "oryza_indica_core_34b_65_2", 
+    ); 
+
+Bio::EnsEMBL::DBSQL::DBAdaptor->new
+  ( '-species' => 'Oryza_minutabb',
+    '-group'   => 'core',
+    '-port'    => $def_port,
+    '-host'    => $def_host,
+    '-user'    => $def_user,
+    '-pass'    => $def_pass,
+    '-dbname'  => "oryza_minutabb_core_34b_65_02",
+);
+
+Bio::EnsEMBL::DBSQL::DBAdaptor->new
+  ( '-species' => 'Oryza_minutacc',
+    '-group'   => 'core',
+    '-port'    => $def_port,
+    '-host'    => $def_host,
+    '-user'    => $def_user,
+    '-pass'    => $def_pass,
+    '-dbname'  => "oryza_minutacc_core_34b_65_02",
+);
+
+Bio::EnsEMBL::DBSQL::DBAdaptor->new
+  ( '-species' => 'Oryza_nivara',
+    '-group'   => 'core',
+    '-port'    => $def_port,
+    '-host'    => $def_host,
+    '-user'    => $def_user,
+    '-pass'    => $def_pass,
+    '-dbname'  => "oryza_nivara_core_34b_65_02",
+    );
+
+Bio::EnsEMBL::DBSQL::DBAdaptor->new
+  ( '-species' => 'Oryza_officinalis',
+    '-group'   => 'core',
+    '-port'    => $def_port,
+    '-host'    => $def_host,
+    '-user'    => $def_user,
+    '-pass'    => $def_pass,
+    '-dbname'  => "oryza_officinalis_core_34b_65_02",
+    );
+
+Bio::EnsEMBL::DBSQL::DBAdaptor->new
+  ( '-species' => 'Oryza_punctata',
+    '-group'   => 'core',
+    '-port'    => $def_port,
+    '-host'    => $def_host,
+    '-user'    => $def_user,
+    '-pass'    => $def_pass,
+    '-dbname'  => "oryza_punctata_core_34b_65_02",
+    );
+
+Bio::EnsEMBL::DBSQL::DBAdaptor->new
+  ( '-species' => 'Oryza_rufipogon',
+    '-group'   => 'core',
+    '-port'    => $def_port,
+    '-host'    => $def_host,
+    '-user'    => $def_user,
+    '-pass'    => $def_pass,
+    '-dbname'  => "oryza_rufipogon_core_34b_64_02",
+    );
+
+Bio::EnsEMBL::DBSQL::DBAdaptor->new
+  ( '-species' => 'Oryza_sativa', 
+    '-group'   => 'core', 
+    '-port'    => $def_port,
+    '-host'    => $def_host, 
+    '-user'    => $def_user, 
+    '-pass'    => $def_pass,
+    '-dbname'  => "oryza_sativa_core_34b_65_6", ); 
+
+Bio::EnsEMBL::DBSQL::DBAdaptor->new
+  ( '-species' => 'Sorghum_bicolor',
+    '-group'   => 'core', 
+    '-port'    => $def_port,
+    '-host'    => $def_host, 
+    '-user'    => $def_user, 
+    '-pass'    => $def_pass,
+    '-dbname'  => "sorghum_bicolor_core_34b_65_14", ); 
+
+#----------------------------------------------------------------------
+# Multi-species databases
+
+Bio::EnsEMBL::Compara::DBSQL::DBAdaptor->new
+  ( '-species' => 'compara',
+    '-group'   => 'compara',
+    '-port'    => $def_port,
+    '-host'    => $def_host,
+    '-user'    => $def_user,
+    '-pass'    => $def_pass,
+    '-dbname'  => "wspooner_ensembl_compara_34b_64_oge", 
+#    '-dbname'  => "ensembl_compara_plants_${GRMVER}_${ENSVER}", 
+        );
+
+#----------------------------------------------------------------------
+# Species aliases
+
+my $REG = 'Bio::EnsEMBL::Registry';
+
+$REG->add_alias("Arabidopsis_thaliana","Arabidopsis thaliana");
+$REG->add_alias("Arabidopsis_thaliana","arabidopsis");
+
+$REG->add_alias("Arabidopsis_lyrata","Arabidopsis lyrata");
+
+$REG->add_alias("Brachypodium_distachyon","Brachypodium distachyon");
+
+$REG->add_alias("Caenorhabditis_elegans","Caenorhabditis elegans");
+
+$REG->add_alias("Ciona_intestinalis","Ciona intestinalis");
+
+$REG->add_alias("Drosophila_melanogaster","Drosophila melanogaster");
+
+$REG->add_alias("Homo_sapiens","Homo sapiens");
+
+$REG->add_alias("Oryza_barthii","Oryza barthii");
+
+$REG->add_alias("Oryza_glaberrima","Oryza glaberrima");
+
+$REG->add_alias("Oryza_minutaCC","Oryza minuta");
+
+$REG->add_alias("Oryza_punctata","Oryza punctata");
+
+$REG->add_alias("Oryza_rufipogon","Oryza rufipogon");
+
+$REG->add_alias("Oryza_officinalis","Oryza officinalis");
+
+$REG->add_alias("Oryza_sativa","Oryza sativa");
+$REG->add_alias("Oryza_sativa","rice");
+$REG->add_alias("Oryza_sativa","Oryza_sativa_japonica");
+$REG->add_alias("Oryza_sativa","Oryza sativa japonica");
+$REG->add_alias("Oryza_sativa","oryza_sativa_japonica_group");
+
+$REG->add_alias("Oryza_indica","Oryza sativa indica");
+$REG->add_alias("Oryza_indica","oryza_sativa_indica_group");
+$REG->add_alias("Oryza_indica","Oryza indica");
+$REG->add_alias("Oryza_indica","Oryza_sativa_indica");
+
+$REG->add_alias("Populus_trichocarpa","Populus trichocarpa");
+$REG->add_alias("Populus_trichocarpa","poplar");
+
+$REG->add_alias("Saccharomyces_cerevisiae","Saccharomyces cerevisiae");
+
+$REG->add_alias("Sorghum_bicolor","Sorghum bicolor");
+$REG->add_alias("Sorghum_bicolor","sorghum");
+
+$REG->add_alias("Vitis_vinifera","Vitis vinifera");
+$REG->add_alias("Vitis_vinifera","grape");
+
+$REG->add_alias("Zea_mays","Zea mays");
+$REG->add_alias("Zea_mays","maize");
+
+$REG->add_alias("Brachypodium_distachyon", "brachypodium");
+$REG->add_alias("Brachypodium_distachyon", "brachy");
+
+$REG->add_alias("Solanum_lycopersicum", "tomato");
+
+$REG->add_alias("Physcomitrella_patens", "physcomitrella");
+$REG->add_alias("compara","plants");
+
+1;
