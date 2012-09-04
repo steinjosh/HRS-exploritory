@@ -1,0 +1,42 @@
+The script get_biomart_orthologs.pl takes advantage of RESTful access to BioMart 
+for retrieving ortholog gene calls from Ensembl Genomomes Biomart services.
+Required inputs are query species name, target species name, gene list, and json
+file with necessary meta information for describing BioMarts.
+
+The needed json file is biomart_homologs.json.  This file (and the more readible
+biomart_homologs.dumper) is generated using the script "scan_biomart.pl".  This 
+script must be run periodically (with each release update of Ensembl Genomes).  It
+scans on-line metadata (see http://www.biomart.org/martservice.html) to "discover"
+available mart services, species datasets, and homolog attributes, and stores the
+data in JSON format.
+
+Requested species names must match those given in the biomart_homologs.json file.
+These are mostly in binary genus species lower-case format, e.g. "zea mays", but
+for bacteria can also include strain information, e.g "escherichia coli o139:h28".
+Available species combinations can also be seen in the biomart_homologs.dumper
+file.
+
+Gene lists are given as a file containing one gene id per line.  The gene id's must
+correspond to annotation datasets in Ensembl.  This meta-information is also
+available in the biomart_homologs.json file.
+
+The current biomart_homologs.json file supports search of the following mart
+services:
+Ensembl Plants
+Ensembl Bacteria
+Ensembl Fungi
+Ensembl Metazoa
+Ensembl Protists
+
+The json file also gives metadata regarding these marts.
+
+Unfortunately the metadata available for the "main" Ensembl (human, mammals,
+vertibrates, etc.) was not properly structured to allow for parsing target species.
+This is supposed to fixed in their next release October 2012.
+
+Example command to retrieve arabidopsis orthologs of a list of maize genes:
+./scripts/get_biomart_orthologs.pl --s1 "zea mays" --s2 "arabidopsis thaliana" --gene_list ./gene_lists/maize_id --json biomart_homologs.json
+
+Output is two files: biomart_out.txt (results) and biomart_metadata.txt (background
+information about the sources of data, such as the mart database and species
+annotation versions).

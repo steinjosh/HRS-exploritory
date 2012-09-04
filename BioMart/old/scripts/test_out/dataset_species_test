@@ -1,0 +1,412 @@
+tcastaneum_eg_gene	tribolium castaneum	Tcas_3.0
+obrachyantha_eg_gene	oryza brachyantha	Oryza_brachyantha.v1.4b
+oanatinus_gene_ensembl	ornithorhynchus anatinus	OANA5
+sta_29522_gene	staphylococcus aureus jh1	EB 1 s_aureus_jh1
+myc_25994_gene	mycobacterium bovis pasteur 1173p2	EB 1 m_bovis_pasteur_1173p2
+cporcellus_gene_ensembl	cavia porcellus	cavPor3
+wol_21004_gene	wolbachia sp. brugia malayi	EB 1 wolbachia_sp_brugia_malayi
+aterreus_eg_gene	aspergillus terreus	Broad
+lafricana_gene_ensembl	loxodonta africana	loxAfr3
+choffmanni_gene_ensembl	choloepus hoffmanni	choHof1
+bac_33986_gene	bacillus anthracis a0248	EB 1 b_anthracis_a0248
+bac_34856_gene	bacillus thuringiensis bgsc 4aj1	EB 1 b_thuringiensis_bgsc_4aj1
+pgraminis_eg_gene	puccinia graminis f. sp. tritici crl 75-36-700-3	ASM14992v1
+bac_33410_gene	bacillus cereus ah1271	EB 1 b_cereus_ah1271
+str_21980_gene	streptococcus pyogenes m28	EB 1 s_pyogenes_m28
+iscapularis_eg_gene	ixodes scapularis	IscaW1
+bac_33390_gene	bacillus cereus 95/8201	EB 1 b_cereus_95_8201
+alaibachii_eg_gene	albugo laibachii	ENA 1
+esc_23099_gene	escherichia coli uti89	EB 1 e_coli_uti89
+umaydis_eg_gene	ustilago maydis	UM1
+bac_35511_gene	bacillus pseudofirmus	EB 1 b_pseudofirmus
+celegans_eg_gene	caenorhabditis elegans	WBcel215
+esc_35476_gene	escherichia coli 042	EB 1 e_coli_042
+esc_30585_gene	escherichia coli atcc 8739	EB 1 e_coli_atcc_8739
+bac_33312_gene	bacillus cereus f65185	EB 1 b_cereus_f65185
+smoellendorffii_eg_gene	selaginella moellendorffii	v1.0
+esc_19_gene	escherichia coli edl933	EB 1 e_coli_edl933
+aaegypti_eg_gene	aedes aegypti	AaegL1
+scerevisiae_eg_gene	saccharomyces cerevisiae	SacCer_Apr2011
+nei_30315_gene	neisseria meningitidis 053442	EB 1 n_meningitidis_053442
+tadhaerens_eg_gene	trichoplax adhaerens	ASM15027v1
+bac_29604_gene	bacillus cereus cytotoxis	EB 1 b_cereus_cytotoxis
+str_34301_gene	streptococcus suis sc84	EB 1 s_suis_sc84
+bac_34984_gene	bacillus cereus bgsc 6e1	EB 1 b_cereus_bgsc_6e1
+myc_29236_gene	mycobacterium gilvum	EB 1 m_gilvum
+esc_110_gene	escherichia coli o6	EB 1 e_coli_o6
+str_32547_gene	streptococcus pneumoniae atcc 700669	EB 1 s_pneumoniae_atcc_700669
+dsimulans_eg_gene	drosophila simulans	dsim_r1.3_FB2008_07
+sta_52746_gene	staphylococcus aureus jkd6159	EB 1 s_aureus_jkd6159
+str_30894_gene	streptococcus pneumoniae cgsp14	EB 1 s_pneumoniae_cgsp14
+esc_25405_gene	escherichia coli o6:k15:h31	EB 1 e_coli_o6_k15_h31
+cintestinalis_gene_ensembl	ciona intestinalis	KH
+etelfairi_gene_ensembl	echinops telfairi	TENREC
+esc_22574_gene	escherichia coli atcc 27325	EB 1 e_coli_atcc_27325
+sta_20863_gene	staphylococcus aureus col	EB 1 s_aureus_col
+esc_34153_gene	escherichia coli bl21(de3) (jgi)	EB 1 e_coli_bl21_de3_jgi
+str_28432_gene	streptococcus sanguinis	EB 1 s_sanguinis
+str_26037_gene	streptococcus pyogenes m5	EB 1 s_pyogenes_m5
+bor_31056_gene	borrelia hermsii	EB 1 b_hermsii
+nei_21062_gene	neisseria gonorrhoeae atcc 700825	EB 1 n_gonorrhoeae_atcc_700825
+bac_136_gene	bacillus anthracis ames	EB 1 b_anthracis_ames
+bac_33324_gene	bacillus cereus rock3-28	EB 1 b_cereus_rock3_28
+str_20460_gene	streptococcus pyogenes m6	EB 1 s_pyogenes_m6
+oglaberrima_eg_gene	oryza glaberrima	AGI1.1
+bac_33408_gene	bacillus cereus r309803	EB 1 b_cereus_r309803
+pcapensis_gene_ensembl	procavia capensis	proCap1
+sta_86_gene	staphylococcus aureus mw2	EB 1 s_aureus_mw2
+str_30555_gene	streptococcus pneumoniae hungary19a-6	EB 1 s_pneumoniae_hungary19a_6
+bac_37184_gene	bacillus thuringiensis bmb171	EB 1 b_thuringiensis_bmb171
+hsapiens_gene_ensembl	homo sapiens	GRCh37.p8
+lmajor_eg_gene	leishmania major	ASM272v2
+pyr_77_gene	pyrococcus furiosus	EB 1 p_furiosus
+bac_902_gene	bacillus cereus atcc 10987	EB 1 b_cereus_atcc_10987
+myc_25870_gene	mycobacterium ulcerans	EB 1 m_ulcerans
+ptrichocarpa_eg_gene	populus trichocarpa	JGI2.0
+esc_29940_gene	escherichia coli o9:h4	EB 1 e_coli_o9_h4
+ggallus_gene_ensembl	gallus gallus	WASHUC2
+ecaballus_gene_ensembl	equus caballus	EquCab2
+bac_32575_gene	bacillus cereus ah820	EB 1 b_cereus_ah820
+bac_33306_gene	bacillus cereus atcc 4342	EB 1 b_cereus_atcc_4342
+myc_25929_gene	mycobacterium vanbaalenii	EB 1 m_vanbaalenii
+sta_35571_gene	staphylococcus lugdunensis	EB 1 s_lugdunensis
+derecta_eg_gene	drosophila erecta	dere_caf1
+bac_33298_gene	bacillus cereus mm1550	EB 1 b_cereus_mm1550
+sta_29553_gene	staphylococcus aureus newman	EB 1 s_aureus_newman
+mmulatta_gene_ensembl	macaca mulatta	MMUL_1.0
+agossypii_eg_gene	ashbya gossypii	ASM9102v1
+pvampyrus_gene_ensembl	pteropus vampyrus	pteVam1
+nei_25970_gene	neisseria meningitidis 2a	EB 1 n_meningitidis_2a
+vpacos_gene_ensembl	vicugna pacos	vicPac1
+bac_34858_gene	bacillus thuringiensis atcc 10792	EB 1 b_thuringiensis_atcc_10792
+sta_22485_gene	staphylococcus aureus bovine rf122	EB 1 s_aureus_bovine_rf122
+bac_29997_gene	bacillus pumilus	EB 1 b_pumilus
+str_20664_gene	streptococcus thermophilus cnrz 1066	EB 1 s_thermophilus_cnrz_1066
+foxysporum_eg_gene	fusarium oxysporum	FO2
+esc_30910_gene	escherichia coli dh10b	EB 1 e_coli_dh10b
+gzeae_eg_gene	gibberella zeae	ASM24013v2
+olatipes_gene_ensembl	oryzias latipes	HdrR
+sta_29377_gene	staphylococcus aureus jh9	EB 1 s_aureus_jh9
+sta_19583_gene	staphylococcus aureus mrsa252	EB 1 s_aureus_mrsa252
+str_49_gene	streptococcus pyogenes m1 sf370	EB 1 s_pyogenes_sf370
+dordii_gene_ensembl	dipodomys ordii	dipOrd1
+bac_33109_gene	bacillus cereus 03bb102	EB 1 b_cereus_03bb102
+sta_22608_gene	staphylococcus aureus nctc 8325	EB 1 s_aureus_nctc_8325
+str_95_gene	streptococcus agalactiae v	EB 1 s_agalactiae_v
+mgraminicola_eg_gene	mycosphaerella graminicola	MG2
+nvectensis_eg_gene	nematostella vectensis	ASM20922v1
+str_34457_gene	streptococcus mutans nn2025	EB 1 s_mutans_nn2025
+esc_30906_gene	escherichia coli sms-3-5	EB 1 e_coli_sms_3_5
+esc_29938_gene	escherichia coli o139:h28	EB 1 e_coli_o139_h28
+bac_33376_gene	bacillus cereus ah676	EB 1 b_cereus_ah676
+esc_32471_gene	escherichia coli o17:k52:h18	EB 1 e_coli_o17_k52_h18
+saraneus_gene_ensembl	sorex araneus	sorAra1
+bac_33378_gene	bacillus thuringiensis t01001	EB 1 b_thuringiensis_t01001
+str_93_gene	streptococcus pyogenes m3 atcc baa-595	EB 1 s_pyogenes_atcc_baa_595
+buc_92_gene	buchnera aphidicola graminum schizaphis	EB 1 b_aphidicola_schizaphis
+esc_22435_gene	shigella dysenteriae	EB 1 s_dysenteriae
+itridecemlineatus_gene_ensembl	ictidomys tridecemlineatus	spetri2
+bac_33342_gene	bacillus thuringiensis bgsc 4bd1 huazhongensis	EB 1 b_thuringiensis_bgsc_4bd1_huazhong
+sta_30215_gene	staphylococcus aureus tch1516	EB 1 s_aureus_tch1516
+phumanus_eg_gene	pediculus humanus	PhumU1
+fcatus_gene_ensembl	felis catus	CAT
+rnorvegicus_gene_ensembl	rattus norvegicus	RGSC3.4
+esc_32467_gene	escherichia coli o45:k1	EB 1 e_coli_o45_k1
+bac_32531_gene	bacillus cereus g9842	EB 1 b_cereus_g9842
+sitalica_eg_gene	setaria italica	JGIv2.0
+bac_34848_gene	bacillus cereus rock1-3	EB 1 b_cereus_rock1_3
+dpulex_eg_gene	daphnia pulex	Dappu1
+aflavus_eg_gene	aspergillus flavus	JCVI-afl1-v2.0
+str_35581_gene	streptococcus mitis	EB 1 s_mitis
+bdistachyon_eg_gene	brachypodium distachyon	v1.0
+pchabaudi_eg_gene	plasmodium chabaudi	May_2010
+bac_32396_gene	bacillus cereus b4264	EB 1 b_cereus_b4264
+myc_25058_gene	mycobacterium sp. mcs	EB 1 mycobacterium_sp_mcs
+str_32985_gene	streptococcus equi equi	EB 1 s_equi
+afumigatus_eg_gene	aspergillus fumigatus af293	TIGR
+ncrassa_eg_gene	neurospora crassa	ASM18292v1
+str_31734_gene	streptococcus pyogenes m49	EB 1 s_pyogenes_m49
+str_31634_gene	streptococcus pneumoniae g54	EB 1 s_pneumoniae_g54
+esc_33850_gene	escherichia coli o157:h7 tw14588	EB 1 e_coli_o157_h7_tw14588
+trubripes_gene_ensembl	takifugu rubripes	FUGU4.0
+bac_33278_gene	bacillus cereus mm3	EB 1 b_cereus_mm3
+myc_29397_gene	mycobacterium tuberculosis atcc 25177	EB 1 m_tuberculosis_atcc_25177
+pmarinus_gene_ensembl	petromyzon marinus	Pmarinus_7.0
+pberghei_eg_gene	plasmodium berghei	May_2010
+psojae_eg_gene	phytophthora sojae	ASM14975v1
+amellifera_eg_gene	apis mellifera	Amel_2.0
+bac_33382_gene	bacillus thuringiensis bgsc 4ba1 pondicheriensis	EB 1 b_thuringiensis_bgsc_4ba1_pondicheri
+str_125_gene	streptococcus pyogenes m3 ssi-1	EB 1 s_pyogenes_ssi_1
+dananassae_eg_gene	drosophila ananassae	dana_caf1
+sscrofa_gene_ensembl	sus scrofa	Sscrofa10.2
+bac_20340_gene	bacillus cereus zk	EB 1 b_cereus_zk
+str_23166_gene	streptococcus pyogenes mgas2096	EB 1 s_pyogenes_mgas2096
+cmerolae_eg_gene	cyanidioschyzon merolae	ASM9120v1
+bac_36401_gene	bacillus megaterium atcc 12872	EB 1 b_megaterium_atcc_12872
+tmelanosporum_eg_gene	tuber melanosporum	ASM15164v1
+bac_36399_gene	bacillus megaterium dsm 319	EB 1 b_megaterium_dsm_319
+nei_34368_gene	neisseria meningitidis alpha14	EB 1 n_meningitidis_alpha14
+esc_35440_gene	escherichia coli se15	EB 2 e_coli_se15
+esc_31033_gene	shigella boydii 18	EB 1 s_boydii_18
+pramorum_eg_gene	phytophthora ramorum	ASM14973v1
+esc_103_gene	shigella flexneri 301	EB 1 s_flexneri_301
+pyr_37_gene	pyrococcus abyssi	EB 1 p_abyssi
+mlucifugus_gene_ensembl	myotis lucifugus	myoLuc2
+bac_33336_gene	bacillus cereus ah1273	EB 1 b_cereus_ah1273
+cbrenneri_eg_gene	caenorhabditis brenneri	CB601
+esc_32469_gene	escherichia coli o81	EB 1 e_coli_o81
+bac_33284_gene	bacillus thuringiensis bgsc 4aw1 andalousiensis	EB 1 b_thuringiensis_bgsc_4aw1_andalous
+esc_32463_gene	escherichia coli 55989	EB 1 e_coli_55989
+xtropicalis_gene_ensembl	xenopus tropicalis	JGI4.2
+bac_20483_gene	bacillus clausii	EB 1 b_clausii
+ssclerotiorum_eg_gene	sclerotinia sclerotiorum 1980 uf-70	ASM14694v1
+dpersimilis_eg_gene	drosophila persimilis	dper_caf1
+drerio_gene_ensembl	danio rerio	Zv9
+str_34303_gene	streptococcus suis bm407	EB 2 s_suis_bm407
+anidulans_eg_gene	aspergillus nidulans	ASM14920v1
+myc_30878_gene	mycobacterium abscessus	EB 1 m_abscessus
+str_32760_gene	streptococcus uberis	EB 1 s_uberis
+esc_34933_gene	escherichia coli atcc 33849	EB 1 e_coli_atcc_33849
+sta_21825_gene	staphylococcus haemolyticus	EB 1 s_haemolyticus
+buc_25795_gene	buchnera aphidicola cedri cinara	EB 1 b_aphidicola_cinara
+esc_35879_gene	escherichia coli o55:h7	EB 1 e_coli_o55_h7
+tthermophila_eg_gene	tetrahymena thermophila	JCVI-TTA1-2.2
+esc_34638_gene	escherichia coli o26:h11	EB 2 e_coli_o26_h11
+mdomestica_gene_ensembl	monodelphis domestica	monDom5
+sta_35362_gene	staphylococcus aureus st398	EB 2 s_aureus_st398
+myc_34297_gene	mycobacterium tuberculosis kzn 1435	EB 1 m_tuberculosis_kzn_1435
+esc_25763_gene	shigella flexneri 5b	EB 1 s_flexneri_5b
+acarolinensis_gene_ensembl	anolis carolinensis	AnoCar2.0
+bor_25460_gene	borrelia afzelii	EB 1 b_afzelii
+str_32993_gene	streptococcus equi h70	EB 1 s_equi_zooepidemicus
+myc_30_gene	mycobacterium tuberculosis h37rv	EB 1 m_tuberculosis_h37rv
+ogarnettii_gene_ensembl	otolemur garnettii	OtoGar3
+str_29962_gene	streptococcus gordonii	EB 1 s_gordonii
+moryzae_eg_gene	magnaporthe oryzae	MG8
+str_20662_gene	streptococcus thermophilus atcc baa-250	EB 1 s_thermophilus_atcc_baa_250
+bac_33356_gene	bacillus cereus atcc 10876	EB 1 b_cereus_atcc_10876
+brapa_eg_gene	brassica rapa	IVFCAASv1
+sta_19585_gene	staphylococcus aureus mssa476	EB 1 s_aureus_mssa476
+oprinceps_gene_ensembl	ochotona princeps	OchPri2.0
+bac_33300_gene	bacillus cereus ah603	EB 1 b_cereus_ah603
+myc_29_gene	mycobacterium leprae tn	EB 1 m_leprae_tn
+bac_30354_gene	bacillus weihenstephanensis	EB 1 b_weihenstephanensis
+str_64_gene	streptococcus pneumoniae atcc baa-255	EB 1 s_pneumoniae_atcc_baa_255
+bor_32571_gene	borrelia burgdorferi zs7	EB 1 b_burgdorferi_zs7
+aniger_eg_gene	aspergillus niger	DSM
+sta_36904_gene	staphylococcus aureus ed133	EB 1 s_aureus_ed133
+bac_20002_gene	bacillus thuringiensis konkukian	EB 1 b_thuringiensis_konkukian
+myc_30990_gene	mycobacterium marinum	EB 1 m_marinum
+ptricornutum_eg_gene	phaeodactylum tricornutum	ASM15095v1
+myc_28710_gene	mycobacterium sp. jls	EB 1 mycobacterium_sp_jls
+mgallopavo_gene_ensembl	meleagris gallopavo	UMD2
+str_23164_gene	streptococcus pyogenes m4	EB 1 s_pyogenes_m4
+pinfestans_eg_gene	phytophthora infestans	ASM14294v1
+bor_7_gene	borrelia burgdorferi dsm 4680	EB 1 b_burgdorferi_dsm_4680
+esc_36397_gene	escherichia coli o18:k1:h7	EB 1 e_coli_o18_k1_h7
+bac_33362_gene	bacillus cereus m1293	EB 1 b_cereus_m1293
+bac_34850_gene	bacillus cereus rock1-15	EB 1 b_cereus_rock1_15
+cfamiliaris_gene_ensembl	canis familiaris	CanFam3.1
+str_57_gene	streptococcus pneumoniae tigr4	EB 1 s_pneumoniae_tigr4
+esc_20_gene	escherichia coli sakai	EB 1 e_coli_sakai
+gaculeatus_gene_ensembl	gasterosteus aculeatus	BROADS1
+bac_6_gene	bacillus subtilis	EB 2 b_subtilis
+esc_34129_gene	escherichia coli bw2952	EB 1 e_coli_bw2952
+esc_34313_gene	escherichia coli rel606	EB 1 e_coli_rel606
+bmori_eg_gene	bombyx mori	Bmor1
+esc_31791_gene	escherichia coli se11	EB 1 e_coli_se11
+bac_33292_gene	bacillus cereus rock3-29	EB 1 b_cereus_rock3_29
+cjaponica_eg_gene	caenorhabditis japonica	CJ302
+cjacchus_gene_ensembl	callithrix jacchus	calJac3
+dwillistoni_eg_gene	drosophila willistoni	dwil_caf1
+str_31483_gene	streptococcus equi mgcs10565	EB 1 s_equi_mgcs10565
+sbicolor_eg_gene	sorghum bicolor	Sorbi1
+bac_20000_gene	bacillus anthracis sterne	EB 1 b_anthracis_sterne
+str_25787_gene	streptococcus thermophilus atcc baa-491	EB 1 s_thermophilus_atcc_baa_491
+bac_36416_gene	bacillus tusciae	EB 1 b_tusciae
+str_29287_gene	streptococcus suis 98hah33	EB 1 s_suis_98hah33
+bac_33322_gene	bacillus thuringiensis ibl4222	EB 1 b_thuringiensis_ibl4222
+ttruncatus_gene_ensembl	tursiops truncatus	turTru1
+acephalotes_eg_gene	atta cephalotes	Attacep1.0
+sta_35540_gene	staphylococcus aureus 04-02981	EB 1 s_aureus_04_02981
+scerevisiae_gene_ensembl	saccharomyces cerevisiae	EF4
+str_22007_gene	streptococcus pyogenes m1 mgas5005	EB 1 s_pyogenes_mgas5005
+esc_22108_gene	shigella sonnei	EB 1 s_sonnei
+esc_32413_gene	escherichia fergusonii	EB 1 e_fergusonii
+pultimum_eg_gene	pythium ultimum	pug
+esc_132_gene	shigella flexneri 2457t	EB 1 s_flexneri_2457t
+bac_1642_gene	bacillus anthracis ames ancestor	EB 1 b_anthracis_ames_ancestor
+afumigatusa1163_eg_gene	aspergillus fumigatus a1163	JCVI
+oniloticus_gene_ensembl	oreochromis niloticus	Orenil1.0
+esc_18_gene	escherichia coli k12	EB 1 e_coli_k12
+ptriticina_eg_gene	puccinia triticina	ASM15152v1
+bac_34852_gene	bacillus cereus rock3-42	EB 1 b_cereus_rock3_42
+bac_33352_gene	bacillus cereus rock4-18	EB 1 b_cereus_rock4_18
+ppacificus_eg_gene	pristionchus pacificus	pp1
+bac_33280_gene	bacillus mycoides rock1-4	EB 1 b_mycoides_rock1_4
+eeuropaeus_gene_ensembl	erinaceus europaeus	eriEur1
+spurpuratus_eg_gene	strongylocentrotus purpuratus	Spur2.5
+bac_20380_gene	bacillus licheniformis goettingen	EB 1 b_licheniformis_goettingen
+str_33091_gene	streptococcus pneumoniae p1031	EB 1 s_pneumoniae_p1031
+dplexippus_eg_gene	danaus plexippus	DanPle_1.0
+ptroglodytes_gene_ensembl	pan troglodytes	CHIMP2.1.4
+cbriggsae_eg_gene	caenorhabditis briggsae	CB4
+mpoae_eg_gene	magnaporthe poae	Mag_poae_ATCC_64411_V1
+myc_138_gene	mycobacterium bovis af2122/97	EB 1 m_bovis_af2122_97
+bac_33310_gene	bacillus mycoides dsm 2048	EB 1 b_mycoides_dsm_2048
+agambiae_eg_gene	anopheles gambiae	AgamP3
+sta_50_gene	staphylococcus aureus n315	EB 1 s_aureus_n315
+cquinquefasciatus_eg_gene	culex quinquefasciatus	CpipJ1
+str_23168_gene	streptococcus pyogenes m2	EB 1 s_pyogenes_m2
+dvirilis_eg_gene	drosophila virilis	dvir_caf1
+ocuniculus_gene_ensembl	oryctolagus cuniculus	oryCun2.0
+tspiralis_eg_gene	trichinella spiralis	Tspiralis1
+bac_29934_gene	bacillus amyloliquefaciens	EB 1 b_amyloliquefaciens
+esc_32473_gene	escherichia coli o7:k1	EB 1 e_coli_o7_k1
+sta_58852_gene	staphylococcus aureus jkd6008	EB 1 s_aureus_jkd6008
+gmoniliformis_eg_gene	gibberella moniliformis	ASM14955v1
+str_98_gene	streptococcus agalactiae iii	EB 1 s_agalactiae_iii
+tbrucei_eg_gene	trypanosoma brucei brucei	TryBru_Apr2005_chr11
+pvivax_eg_gene	plasmodium vivax	ASM241v1
+bor_31275_gene	borrelia turicatae	EB 1 b_turicatae
+buc_32579_gene	buchnera aphidicola 5a	EB 1 b_aphidicola_5a
+esc_34640_gene	escherichia coli o103:h2	EB 2 e_coli_o103_h2
+myc_33099_gene	mycobacterium bovis tokyo 172	EB 1 m_bovis_tokyo_172
+nei_31362_gene	neisseria gonorrhoeae nccp11945	EB 1 n_gonorrhoeae_nccp11945
+tgondii_eg_gene	toxoplasma gondii me49	JCVI-tgg-v1.0
+sta_51_gene	staphylococcus aureus mu50	EB 1 s_aureus_mu50
+nei_33_gene	neisseria meningitidis a	EB 1 n_meningitidis_a
+wol_32987_gene	wolbachia sp. drosophila simulans	EB 1 wolbachia_sp_drosophila_simulans
+pyr_21106_gene	pyrococcus kodakaraensis	EB 1 p_kodakaraensis
+tbelangeri_gene_ensembl	tupaia belangeri	tupBel1
+esc_22433_gene	shigella boydii 4	EB 1 s_boydii_4
+ppatens_eg_gene	physcomitrella patens	ASM242v1
+pabelii_gene_ensembl	pongo abelii	PPYG2
+bfuckeliana_eg_gene	botryotinia fuckeliana b05.10	BotFuc_Aug2005
+bac_5_gene	bacillus halodurans	EB 1 b_halodurans
+bor_20260_gene	borrelia garinii	EB 1 b_garinii
+bor_31576_gene	borrelia recurrentis	EB 1 b_recurrentis
+bac_134_gene	bacillus cereus atcc 14579	EB 1 b_cereus_atcc_14579
+esc_34738_gene	escherichia coli bl21(de3) (kribb)	EB 2 e_coli_bl21_de3_kribb
+lchalumnae_gene_ensembl	latimeria chalumnae	LatCha1
+tnigroviridis_gene_ensembl	tetraodon nigroviridis	TETRAODON8.0
+sta_22602_gene	staphylococcus aureus usa300	EB 1 s_aureus_usa300
+bac_33163_gene	bacillus anthracis cdc 684	EB 1 b_anthracis_cdc_684
+amelanoleuca_gene_ensembl	ailuropoda melanoleuca	ailMel1
+aclavatus_eg_gene	aspergillus clavatus	TIGR
+nei_34963_gene	neisseria meningitidis 8013	EB 1 n_meningitidis_8013
+sta_35170_gene	staphylococcus aureus tw20	EB 1 s_aureus_tw20
+str_33095_gene	streptococcus pneumoniae taiwan19f-14	EB 1 s_pneumoniae_taiwan19f_14
+pfalciparum_eg_gene	plasmodium falciparum	ASM276v1
+bac_33304_gene	bacillus thuringiensis t04001 sotto	EB 1 b_thuringiensis_t04001_sotto
+pyr_38_gene	pyrococcus horikoshii	EB 1 p_horikoshii
+alyrata_eg_gene	arabidopsis lyrata	v.1.0
+dpseudoobscura_eg_gene	drosophila pseudoobscura	BCM-HGSC 2
+ehistolytica_eg_gene	entamoeba histolytica	JCVI-ESG2-1.0
+pnodorum_eg_gene	phaeosphaeria nodorum	ASM14691v1
+esc_32465_gene	escherichia coli o8	EB 1 e_coli_o8
+mmurinus_gene_ensembl	microcebus murinus	micMur1
+vvinifera_eg_gene	vitis vinifera	IGGP_12x
+buc_32535_gene	buchnera aphidicola tuc7	EB 1 b_aphidicola_tuc7
+buc_116_gene	buchnera aphidicola pistaciae baizongia	EB 1 b_aphidicola_baizongia
+bor_31574_gene	borrelia duttonii	EB 1 b_duttonii
+wol_31236_gene	wolbachia pipientis culex pipiens	EB 1 w_pipientis_culex_pipiens
+sta_35031_gene	staphylococcus aureus ed98	EB 1 s_aureus_ed98
+str_29285_gene	streptococcus suis 05zyh33	EB 1 s_suis_05zyh33
+sta_20865_gene	staphylococcus epidermidis atcc 35984	EB 1 s_epidermidis_atcc_35984
+bac_33366_gene	bacillus pseudomycoides dsm 12442	EB 1 b_pseudomycoides
+esc_34269_gene	escherichia coli bl21	EB 1 e_coli_bl21
+bac_33314_gene	bacillus cereus ah621	EB 1 b_cereus_ah621
+btaurus_gene_ensembl	bos taurus	UMD3.1
+nfischeri_eg_gene	neosartorya fischeri	TIGR
+bac_33404_gene	bacillus cereus bdrd-st196	EB 1 b_cereus_bdrd_st196
+bac_32390_gene	bacillus cereus ah187	EB 1 b_cereus_ah187
+dgrimshawi_eg_gene	drosophila grimshawi	dgri_caf1
+sta_113_gene	staphylococcus epidermidis atcc 12228	EB 1 s_epidermidis_atcc_12228
+bac_20360_gene	bacillus licheniformis novozymes	EB 1 b_licheniformis_novozymes
+bac_33334_gene	bacillus cereus bdrd-bcer4	EB 1 b_cereus_bdrd_bcer4
+sta_29960_gene	staphylococcus aureus mu3	EB 1 s_aureus_mu3
+aqueenslandica_eg_gene	amphimedon queenslandica	Aqu1
+bac_33398_gene	bacillus thuringiensis bgsc 4cc1 pulsiensis	EB 1 b_thuringiensis_bgsc_4cc1_pulsiensis
+esc_35368_gene	shigella flexneri x	EB 1 s_flexneri_x
+csavignyi_gene_ensembl	ciona savignyi	CSAV2.0
+bac_37182_gene	bacillus cereus var. anthracis	EB 1 b_cereus_var_anthracis
+psinensis_gene_ensembl	pelodiscus sinensis	PelSin_1.0
+str_25749_gene	streptococcus pneumoniae d39	EB 1 s_pneumoniae_d39
+apisum_eg_gene	acyrthosiphon pisum	Acyr_2.0
+dyakuba_eg_gene	drosophila yakuba	dyak_r1.3_FB2008_07
+ggraminis_eg_gene	gaeumannomyces graminis	Gae_graminis_V2
+harabidopsidis_eg_gene	hyaloperonospora arabidopsidis	HyaAraEmoy2_2.0
+celegans_gene_ensembl	caenorhabditis elegans	WBcel215
+wol_765_gene	wolbachia pipientis wmel	EB 1 w_pipientis_wmel
+osativa_eg_gene	oryza sativa	MSU6
+bac_33406_gene	bacillus mycoides rock3-17	EB 1 b_mycoides_rock3_17
+bac_33368_gene	bacillus cereus bdrd-st26	EB 1 b_cereus_bdrd_st26
+bac_33294_gene	bacillus cereus 172560w	EB 1 b_cereus_172560w
+dsechellia_eg_gene	drosophila sechellia	dsec_caf1
+bac_25839_gene	bacillus thuringiensis	EB 1 b_thuringiensis
+esc_31685_gene	escherichia coli o157:h7 ec4115	EB 1 e_coli_ec4115
+hsapiens_gene_pancreas	pancreatic expression database (new dataload)	GRCh37
+str_33101_gene	streptococcus pneumoniae jja	EB 1 s_pneumoniae_jja
+dmelanogaster_eg_gene	drosophila melanogaster	BDGP 5
+zmays_eg_gene	zea mays	AGPv2
+str_36375_gene	streptococcus suis gz1	EB 1 s_suis_gz1
+str_80_gene	streptococcus pyogenes m18	EB 1 s_pyogenes_m18
+bac_33370_gene	bacillus thuringiensis t03a001 kurstaki	EB 1 b_thuringiensis_t03a001_kurstaki
+tpseudonana_eg_gene	thalassiosira pseudonana	ASM14940v1
+str_22229_gene	streptococcus agalactiae ia	EB 1 s_agalactiae_ia
+creinhardtii_eg_gene	chlamydomonas reihhardtii	v3.0
+smansoni_eg_gene	schistosoma mansoni	sma_v3.1
+sta_32748_gene	staphylococcus carnosus	EB 1 s_carnosus
+myc_25946_gene	mycobacterium sp. kms	EB 1 mycobacterium_sp_kms
+nleucogenys_gene_ensembl	nomascus leucogenys	Nleu1.0
+myc_53_gene	mycobacterium tuberculosis cdc1551	EB 1 m_tuberculosis_cdc1551
+str_34224_gene	streptococcus pneumoniae a19	EB 1 s_pneumoniae_a19
+myc_32549_gene	mycobacterium leprae br4923	EB 1 m_leprae_br4923
+bac_33308_gene	bacillus cereus rock3-44	EB 1 b_cereus_rock3_44
+spombe_eg_gene	schizosaccharomyces pombe	ASM294v1
+esc_31896_gene	escherichia coli o127:h6	EB 1 e_coli_o127_h6
+bac_32328_gene	bacillus selenitireducens	EB 1 b_selenitireducens
+dnovemcinctus_gene_ensembl	dasypus novemcinctus	dasNov2
+str_23162_gene	streptococcus pyogenes mgas9429	EB 1 s_pyogenes_mgas9429
+bac_35119_gene	bacillus thuringiensis bt407	EB 1 b_thuringiensis_bt407
+nhaematococca_eg_gene	nectria haematococca	v2.0
+str_35544_gene	streptococcus gallolyticus	EB 1 s_gallolyticus
+athaliana_eg_gene	arabidopsis thaliana	TAIR10
+bac_32740_gene	bacillus cereus q1	EB 1 b_cereus_q1
+tguttata_gene_ensembl	taeniopygia guttata	taeGut3.2.4
+buc_8_gene	buchnera aphidicola tokyo 1998	EB 1 b_aphidicola_tokyo_1998
+str_34271_gene	streptococcus dysgalactiae	EB 1 s_dysgalactiae
+nei_34_gene	neisseria meningitidis b	EB 1 n_meningitidis_b
+ddiscoideum_eg_gene	dictyostelium discoideum	dictybase.01
+hmelpomene_eg_gene	heliconius melpomene	Hmel1
+pknowlesi_eg_gene	plasmodium knowlesi	EPr 1
+str_34370_gene	streptococcus suis p1/7	EB 1 s_suis_p1_7
+slycopersicum_eg_gene	solanum lycopersicum	SL2.40
+gmax_eg_gene	glycine max	V1.0
+esc_34642_gene	escherichia coli o111:h-	EB 2 e_coli_o111_h_
+cremanei_eg_gene	caenorhabditis remanei	CR2
+oindica_eg_gene	oryza sativa indica group	ASM465v1
+str_102_gene	streptococcus mutans atcc 700610	EB 1 s_mutans_atcc_700610
+myc_25827_gene	mycobacterium smegmatis	EB 1 m_smegmatis
+bac_33276_gene	bacillus cereus ah1272	EB 1 b_cereus_ah1272
+tsyrichta_gene_ensembl	tarsius syrichta	tarSyr1
+bac_33384_gene	bacillus cereus bdrd-st24	EB 1 b_cereus_bdrd_st24
+dmelanogaster_gene_ensembl	drosophila melanogaster	BDGP5
+sta_22064_gene	staphylococcus saprophyticus	EB 1 s_saprophyticus
+esc_25686_gene	escherichia coli o1:k1 / apec	EB 1 e_coli_o1_k1_apec
+bac_34854_gene	bacillus cereus rock4-2	EB 1 b_cereus_rock4_2
+esc_34372_gene	escherichia coli o157:h7 tw14359	EB 1 e_coli_tw14359
+ggorilla_gene_ensembl	gorilla gorilla	gorGor3.1
+bac_33320_gene	bacillus thuringiensis t13001 pakistani	EB 1 b_thuringiensis_t13001_pakistani
+bac_33330_gene	bacillus thuringiensis bgsc 4y1 tochigiensis	EB 1 b_thuringiensis_bgsc_4y1_tochigiensis
+mmusculus_gene_ensembl	mus musculus	GRCm38
+myc_679_gene	mycobacterium paratuberculosis	EB 1 m_paratuberculosis
+myc_25829_gene	mycobacterium avium	EB 1 m_avium
+gmorhua_gene_ensembl	gadus morhua	gadMor1
+str_33111_gene	streptococcus pneumoniae 70585	EB 1 s_pneumoniae_70585
+dmojavensis_eg_gene	drosophila mojavensis	dmoj_caf1
+aoryzae_eg_gene	aspergillus oryzae	NITE
+bac_33374_gene	bacillus thuringiensis ibl200	EB 1 b_thuringiensis_ibl200
+sharrisii_gene_ensembl	sarcophilus harrisii	DEVIL7.0
+meugenii_gene_ensembl	macropus eugenii	Meug_1.0

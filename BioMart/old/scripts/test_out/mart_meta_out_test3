@@ -1,0 +1,6200 @@
+tcastaneum_eg_gene
+metazoa_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'metazoa_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'metazoa_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL METAZOA 14 (EBI UK)'
+        };
+obrachyantha_eg_gene
+ENSEMBL_MART_PLANT
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ENSEMBL_MART_PLANT',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.gramene.org',
+          'database' => 'plant_mart_32_60',
+          'redirect' => '1',
+          'includeDatasets' => '',
+          'displayName' => 'GRAMENE 30 ENSEMBL GENES (CSHL/CORNELL US)'
+        };
+oanatinus_gene_ensembl
+ensembl
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ensembl',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'ensembl_mart_68',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL GENES 68 (SANGER UK)'
+        };
+sta_29522_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+myc_25994_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+cporcellus_gene_ensembl
+ensembl
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ensembl',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'ensembl_mart_68',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL GENES 68 (SANGER UK)'
+        };
+wol_21004_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+aterreus_eg_gene
+fungi_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'fungi_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'fungi_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL FUNGI 14 (EBI UK)'
+        };
+lafricana_gene_ensembl
+ensembl
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ensembl',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'ensembl_mart_68',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL GENES 68 (SANGER UK)'
+        };
+choffmanni_gene_ensembl
+ensembl
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ensembl',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'ensembl_mart_68',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL GENES 68 (SANGER UK)'
+        };
+bac_33986_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+bac_34856_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+pgraminis_eg_gene
+fungi_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'fungi_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'fungi_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL FUNGI 14 (EBI UK)'
+        };
+bac_33410_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+str_21980_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+iscapularis_eg_gene
+metazoa_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'metazoa_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'metazoa_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL METAZOA 14 (EBI UK)'
+        };
+bac_33390_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+alaibachii_eg_gene
+protists_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'protists_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'protists_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL PROTISTS 14 (EBI UK)'
+        };
+esc_23099_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+umaydis_eg_gene
+fungi_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'fungi_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'fungi_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL FUNGI 14 (EBI UK)'
+        };
+bac_35511_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+celegans_eg_gene
+metazoa_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'metazoa_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'metazoa_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL METAZOA 14 (EBI UK)'
+        };
+esc_35476_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+esc_30585_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+bac_33312_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+smoellendorffii_eg_gene
+ENSEMBL_MART_PLANT
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ENSEMBL_MART_PLANT',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.gramene.org',
+          'database' => 'plant_mart_32_60',
+          'redirect' => '1',
+          'includeDatasets' => '',
+          'displayName' => 'GRAMENE 30 ENSEMBL GENES (CSHL/CORNELL US)'
+        };
+esc_19_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+aaegypti_eg_gene
+metazoa_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'metazoa_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'metazoa_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL METAZOA 14 (EBI UK)'
+        };
+scerevisiae_eg_gene
+fungi_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'fungi_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'fungi_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL FUNGI 14 (EBI UK)'
+        };
+nei_30315_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+tadhaerens_eg_gene
+metazoa_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'metazoa_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'metazoa_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL METAZOA 14 (EBI UK)'
+        };
+bac_29604_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+str_34301_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+bac_34984_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+myc_29236_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+esc_110_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+str_32547_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+dsimulans_eg_gene
+metazoa_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'metazoa_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'metazoa_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL METAZOA 14 (EBI UK)'
+        };
+sta_52746_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+str_30894_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+esc_25405_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+cintestinalis_gene_ensembl
+ensembl
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ensembl',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'ensembl_mart_68',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL GENES 68 (SANGER UK)'
+        };
+etelfairi_gene_ensembl
+ensembl
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ensembl',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'ensembl_mart_68',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL GENES 68 (SANGER UK)'
+        };
+esc_22574_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+sta_20863_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+esc_34153_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+str_28432_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+str_26037_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+bor_31056_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+nei_21062_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+bac_136_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+bac_33324_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+str_20460_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+oglaberrima_eg_gene
+ENSEMBL_MART_PLANT
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ENSEMBL_MART_PLANT',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.gramene.org',
+          'database' => 'plant_mart_32_60',
+          'redirect' => '1',
+          'includeDatasets' => '',
+          'displayName' => 'GRAMENE 30 ENSEMBL GENES (CSHL/CORNELL US)'
+        };
+bac_33408_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+pcapensis_gene_ensembl
+ensembl
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ensembl',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'ensembl_mart_68',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL GENES 68 (SANGER UK)'
+        };
+sta_86_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+str_30555_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+bac_37184_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+hsapiens_gene_ensembl
+ensembl
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ensembl',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'ensembl_mart_68',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL GENES 68 (SANGER UK)'
+        };
+lmajor_eg_gene
+protists_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'protists_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'protists_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL PROTISTS 14 (EBI UK)'
+        };
+pyr_77_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+bac_902_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+myc_25870_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+ptrichocarpa_eg_gene
+ENSEMBL_MART_PLANT
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ENSEMBL_MART_PLANT',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.gramene.org',
+          'database' => 'plant_mart_32_60',
+          'redirect' => '1',
+          'includeDatasets' => '',
+          'displayName' => 'GRAMENE 30 ENSEMBL GENES (CSHL/CORNELL US)'
+        };
+esc_29940_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+ggallus_gene_ensembl
+ensembl
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ensembl',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'ensembl_mart_68',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL GENES 68 (SANGER UK)'
+        };
+ecaballus_gene_ensembl
+ensembl
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ensembl',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'ensembl_mart_68',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL GENES 68 (SANGER UK)'
+        };
+bac_32575_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+bac_33306_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+myc_25929_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+sta_35571_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+derecta_eg_gene
+metazoa_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'metazoa_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'metazoa_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL METAZOA 14 (EBI UK)'
+        };
+bac_33298_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+sta_29553_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+mmulatta_gene_ensembl
+ensembl
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ensembl',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'ensembl_mart_68',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL GENES 68 (SANGER UK)'
+        };
+agossypii_eg_gene
+fungi_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'fungi_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'fungi_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL FUNGI 14 (EBI UK)'
+        };
+pvampyrus_gene_ensembl
+ensembl
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ensembl',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'ensembl_mart_68',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL GENES 68 (SANGER UK)'
+        };
+nei_25970_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+vpacos_gene_ensembl
+ensembl
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ensembl',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'ensembl_mart_68',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL GENES 68 (SANGER UK)'
+        };
+bac_34858_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+sta_22485_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+bac_29997_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+str_20664_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+foxysporum_eg_gene
+fungi_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'fungi_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'fungi_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL FUNGI 14 (EBI UK)'
+        };
+esc_30910_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+gzeae_eg_gene
+fungi_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'fungi_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'fungi_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL FUNGI 14 (EBI UK)'
+        };
+olatipes_gene_ensembl
+ensembl
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ensembl',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'ensembl_mart_68',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL GENES 68 (SANGER UK)'
+        };
+sta_29377_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+sta_19583_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+str_49_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+dordii_gene_ensembl
+ensembl
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ensembl',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'ensembl_mart_68',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL GENES 68 (SANGER UK)'
+        };
+bac_33109_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+sta_22608_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+str_95_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+mgraminicola_eg_gene
+fungi_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'fungi_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'fungi_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL FUNGI 14 (EBI UK)'
+        };
+nvectensis_eg_gene
+metazoa_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'metazoa_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'metazoa_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL METAZOA 14 (EBI UK)'
+        };
+str_34457_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+esc_30906_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+esc_29938_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+bac_33376_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+esc_32471_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+saraneus_gene_ensembl
+ensembl
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ensembl',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'ensembl_mart_68',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL GENES 68 (SANGER UK)'
+        };
+bac_33378_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+str_93_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+buc_92_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+esc_22435_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+itridecemlineatus_gene_ensembl
+ensembl
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ensembl',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'ensembl_mart_68',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL GENES 68 (SANGER UK)'
+        };
+bac_33342_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+sta_30215_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+phumanus_eg_gene
+metazoa_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'metazoa_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'metazoa_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL METAZOA 14 (EBI UK)'
+        };
+fcatus_gene_ensembl
+ensembl
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ensembl',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'ensembl_mart_68',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL GENES 68 (SANGER UK)'
+        };
+rnorvegicus_gene_ensembl
+ensembl
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ensembl',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'ensembl_mart_68',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL GENES 68 (SANGER UK)'
+        };
+esc_32467_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+bac_32531_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+sitalica_eg_gene
+ENSEMBL_MART_PLANT
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ENSEMBL_MART_PLANT',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.gramene.org',
+          'database' => 'plant_mart_32_60',
+          'redirect' => '1',
+          'includeDatasets' => '',
+          'displayName' => 'GRAMENE 30 ENSEMBL GENES (CSHL/CORNELL US)'
+        };
+bac_34848_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+dpulex_eg_gene
+metazoa_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'metazoa_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'metazoa_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL METAZOA 14 (EBI UK)'
+        };
+aflavus_eg_gene
+fungi_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'fungi_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'fungi_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL FUNGI 14 (EBI UK)'
+        };
+str_35581_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+bdistachyon_eg_gene
+ENSEMBL_MART_PLANT
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ENSEMBL_MART_PLANT',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.gramene.org',
+          'database' => 'plant_mart_32_60',
+          'redirect' => '1',
+          'includeDatasets' => '',
+          'displayName' => 'GRAMENE 30 ENSEMBL GENES (CSHL/CORNELL US)'
+        };
+pchabaudi_eg_gene
+protists_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'protists_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'protists_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL PROTISTS 14 (EBI UK)'
+        };
+bac_32396_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+myc_25058_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+str_32985_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+afumigatus_eg_gene
+fungi_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'fungi_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'fungi_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL FUNGI 14 (EBI UK)'
+        };
+ncrassa_eg_gene
+fungi_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'fungi_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'fungi_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL FUNGI 14 (EBI UK)'
+        };
+str_31734_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+str_31634_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+esc_33850_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+trubripes_gene_ensembl
+ensembl
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ensembl',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'ensembl_mart_68',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL GENES 68 (SANGER UK)'
+        };
+bac_33278_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+myc_29397_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+pmarinus_gene_ensembl
+ensembl
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ensembl',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'ensembl_mart_68',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL GENES 68 (SANGER UK)'
+        };
+pberghei_eg_gene
+protists_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'protists_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'protists_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL PROTISTS 14 (EBI UK)'
+        };
+psojae_eg_gene
+protists_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'protists_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'protists_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL PROTISTS 14 (EBI UK)'
+        };
+amellifera_eg_gene
+metazoa_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'metazoa_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'metazoa_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL METAZOA 14 (EBI UK)'
+        };
+bac_33382_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+str_125_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+dananassae_eg_gene
+metazoa_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'metazoa_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'metazoa_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL METAZOA 14 (EBI UK)'
+        };
+sscrofa_gene_ensembl
+ensembl
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ensembl',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'ensembl_mart_68',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL GENES 68 (SANGER UK)'
+        };
+bac_20340_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+str_23166_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+cmerolae_eg_gene
+ENSEMBL_MART_PLANT
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ENSEMBL_MART_PLANT',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.gramene.org',
+          'database' => 'plant_mart_32_60',
+          'redirect' => '1',
+          'includeDatasets' => '',
+          'displayName' => 'GRAMENE 30 ENSEMBL GENES (CSHL/CORNELL US)'
+        };
+bac_36401_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+tmelanosporum_eg_gene
+fungi_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'fungi_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'fungi_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL FUNGI 14 (EBI UK)'
+        };
+bac_36399_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+nei_34368_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+esc_35440_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+esc_31033_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+pramorum_eg_gene
+protists_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'protists_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'protists_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL PROTISTS 14 (EBI UK)'
+        };
+esc_103_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+pyr_37_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+mlucifugus_gene_ensembl
+ensembl
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ensembl',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'ensembl_mart_68',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL GENES 68 (SANGER UK)'
+        };
+bac_33336_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+cbrenneri_eg_gene
+metazoa_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'metazoa_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'metazoa_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL METAZOA 14 (EBI UK)'
+        };
+esc_32469_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+bac_33284_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+esc_32463_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+xtropicalis_gene_ensembl
+ensembl
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ensembl',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'ensembl_mart_68',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL GENES 68 (SANGER UK)'
+        };
+bac_20483_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+ssclerotiorum_eg_gene
+fungi_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'fungi_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'fungi_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL FUNGI 14 (EBI UK)'
+        };
+dpersimilis_eg_gene
+metazoa_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'metazoa_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'metazoa_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL METAZOA 14 (EBI UK)'
+        };
+drerio_gene_ensembl
+ensembl
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ensembl',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'ensembl_mart_68',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL GENES 68 (SANGER UK)'
+        };
+str_34303_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+anidulans_eg_gene
+fungi_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'fungi_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'fungi_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL FUNGI 14 (EBI UK)'
+        };
+myc_30878_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+str_32760_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+esc_34933_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+sta_21825_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+buc_25795_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+esc_35879_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+tthermophila_eg_gene
+protists_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'protists_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'protists_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL PROTISTS 14 (EBI UK)'
+        };
+esc_34638_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+mdomestica_gene_ensembl
+ensembl
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ensembl',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'ensembl_mart_68',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL GENES 68 (SANGER UK)'
+        };
+sta_35362_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+myc_34297_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+esc_25763_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+acarolinensis_gene_ensembl
+ensembl
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ensembl',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'ensembl_mart_68',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL GENES 68 (SANGER UK)'
+        };
+bor_25460_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+str_32993_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+myc_30_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+ogarnettii_gene_ensembl
+ensembl
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ensembl',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'ensembl_mart_68',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL GENES 68 (SANGER UK)'
+        };
+str_29962_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+moryzae_eg_gene
+fungi_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'fungi_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'fungi_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL FUNGI 14 (EBI UK)'
+        };
+str_20662_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+bac_33356_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+brapa_eg_gene
+ENSEMBL_MART_PLANT
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ENSEMBL_MART_PLANT',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.gramene.org',
+          'database' => 'plant_mart_32_60',
+          'redirect' => '1',
+          'includeDatasets' => '',
+          'displayName' => 'GRAMENE 30 ENSEMBL GENES (CSHL/CORNELL US)'
+        };
+sta_19585_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+oprinceps_gene_ensembl
+ensembl
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ensembl',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'ensembl_mart_68',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL GENES 68 (SANGER UK)'
+        };
+bac_33300_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+myc_29_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+bac_30354_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+str_64_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+bor_32571_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+aniger_eg_gene
+fungi_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'fungi_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'fungi_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL FUNGI 14 (EBI UK)'
+        };
+sta_36904_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+bac_20002_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+myc_30990_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+ptricornutum_eg_gene
+protists_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'protists_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'protists_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL PROTISTS 14 (EBI UK)'
+        };
+myc_28710_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+mgallopavo_gene_ensembl
+ensembl
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ensembl',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'ensembl_mart_68',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL GENES 68 (SANGER UK)'
+        };
+str_23164_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+pinfestans_eg_gene
+protists_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'protists_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'protists_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL PROTISTS 14 (EBI UK)'
+        };
+bor_7_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+esc_36397_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+bac_33362_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+bac_34850_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+cfamiliaris_gene_ensembl
+ensembl
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ensembl',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'ensembl_mart_68',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL GENES 68 (SANGER UK)'
+        };
+str_57_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+esc_20_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+gaculeatus_gene_ensembl
+ensembl
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ensembl',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'ensembl_mart_68',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL GENES 68 (SANGER UK)'
+        };
+bac_6_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+esc_34129_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+esc_34313_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+bmori_eg_gene
+metazoa_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'metazoa_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'metazoa_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL METAZOA 14 (EBI UK)'
+        };
+esc_31791_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+bac_33292_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+cjaponica_eg_gene
+metazoa_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'metazoa_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'metazoa_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL METAZOA 14 (EBI UK)'
+        };
+cjacchus_gene_ensembl
+ensembl
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ensembl',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'ensembl_mart_68',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL GENES 68 (SANGER UK)'
+        };
+dwillistoni_eg_gene
+metazoa_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'metazoa_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'metazoa_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL METAZOA 14 (EBI UK)'
+        };
+str_31483_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+sbicolor_eg_gene
+ENSEMBL_MART_PLANT
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ENSEMBL_MART_PLANT',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.gramene.org',
+          'database' => 'plant_mart_32_60',
+          'redirect' => '1',
+          'includeDatasets' => '',
+          'displayName' => 'GRAMENE 30 ENSEMBL GENES (CSHL/CORNELL US)'
+        };
+bac_20000_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+str_25787_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+bac_36416_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+str_29287_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+bac_33322_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+ttruncatus_gene_ensembl
+ensembl
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ensembl',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'ensembl_mart_68',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL GENES 68 (SANGER UK)'
+        };
+acephalotes_eg_gene
+metazoa_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'metazoa_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'metazoa_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL METAZOA 14 (EBI UK)'
+        };
+sta_35540_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+scerevisiae_gene_ensembl
+ensembl
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ensembl',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'ensembl_mart_68',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL GENES 68 (SANGER UK)'
+        };
+str_22007_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+esc_22108_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+esc_32413_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+pultimum_eg_gene
+protists_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'protists_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'protists_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL PROTISTS 14 (EBI UK)'
+        };
+esc_132_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+bac_1642_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+afumigatusa1163_eg_gene
+fungi_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'fungi_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'fungi_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL FUNGI 14 (EBI UK)'
+        };
+oniloticus_gene_ensembl
+ensembl
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ensembl',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'ensembl_mart_68',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL GENES 68 (SANGER UK)'
+        };
+esc_18_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+ptriticina_eg_gene
+fungi_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'fungi_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'fungi_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL FUNGI 14 (EBI UK)'
+        };
+bac_34852_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+bac_33352_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+ppacificus_eg_gene
+metazoa_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'metazoa_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'metazoa_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL METAZOA 14 (EBI UK)'
+        };
+bac_33280_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+eeuropaeus_gene_ensembl
+ensembl
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ensembl',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'ensembl_mart_68',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL GENES 68 (SANGER UK)'
+        };
+spurpuratus_eg_gene
+metazoa_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'metazoa_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'metazoa_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL METAZOA 14 (EBI UK)'
+        };
+bac_20380_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+str_33091_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+dplexippus_eg_gene
+metazoa_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'metazoa_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'metazoa_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL METAZOA 14 (EBI UK)'
+        };
+ptroglodytes_gene_ensembl
+ensembl
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ensembl',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'ensembl_mart_68',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL GENES 68 (SANGER UK)'
+        };
+cbriggsae_eg_gene
+metazoa_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'metazoa_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'metazoa_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL METAZOA 14 (EBI UK)'
+        };
+mpoae_eg_gene
+fungi_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'fungi_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'fungi_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL FUNGI 14 (EBI UK)'
+        };
+myc_138_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+bac_33310_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+agambiae_eg_gene
+metazoa_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'metazoa_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'metazoa_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL METAZOA 14 (EBI UK)'
+        };
+sta_50_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+cquinquefasciatus_eg_gene
+metazoa_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'metazoa_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'metazoa_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL METAZOA 14 (EBI UK)'
+        };
+str_23168_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+dvirilis_eg_gene
+metazoa_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'metazoa_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'metazoa_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL METAZOA 14 (EBI UK)'
+        };
+ocuniculus_gene_ensembl
+ensembl
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ensembl',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'ensembl_mart_68',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL GENES 68 (SANGER UK)'
+        };
+tspiralis_eg_gene
+metazoa_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'metazoa_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'metazoa_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL METAZOA 14 (EBI UK)'
+        };
+bac_29934_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+esc_32473_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+sta_58852_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+gmoniliformis_eg_gene
+fungi_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'fungi_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'fungi_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL FUNGI 14 (EBI UK)'
+        };
+str_98_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+tbrucei_eg_gene
+protists_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'protists_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'protists_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL PROTISTS 14 (EBI UK)'
+        };
+pvivax_eg_gene
+protists_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'protists_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'protists_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL PROTISTS 14 (EBI UK)'
+        };
+bor_31275_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+buc_32579_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+esc_34640_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+myc_33099_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+nei_31362_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+tgondii_eg_gene
+protists_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'protists_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'protists_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL PROTISTS 14 (EBI UK)'
+        };
+sta_51_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+nei_33_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+wol_32987_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+pyr_21106_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+tbelangeri_gene_ensembl
+ensembl
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ensembl',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'ensembl_mart_68',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL GENES 68 (SANGER UK)'
+        };
+esc_22433_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+ppatens_eg_gene
+ENSEMBL_MART_PLANT
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ENSEMBL_MART_PLANT',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.gramene.org',
+          'database' => 'plant_mart_32_60',
+          'redirect' => '1',
+          'includeDatasets' => '',
+          'displayName' => 'GRAMENE 30 ENSEMBL GENES (CSHL/CORNELL US)'
+        };
+pabelii_gene_ensembl
+ensembl
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ensembl',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'ensembl_mart_68',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL GENES 68 (SANGER UK)'
+        };
+bfuckeliana_eg_gene
+fungi_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'fungi_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'fungi_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL FUNGI 14 (EBI UK)'
+        };
+bac_5_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+bor_20260_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+bor_31576_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+bac_134_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+esc_34738_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+lchalumnae_gene_ensembl
+ensembl
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ensembl',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'ensembl_mart_68',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL GENES 68 (SANGER UK)'
+        };
+tnigroviridis_gene_ensembl
+ensembl
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ensembl',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'ensembl_mart_68',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL GENES 68 (SANGER UK)'
+        };
+sta_22602_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+bac_33163_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+amelanoleuca_gene_ensembl
+ensembl
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ensembl',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'ensembl_mart_68',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL GENES 68 (SANGER UK)'
+        };
+aclavatus_eg_gene
+fungi_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'fungi_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'fungi_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL FUNGI 14 (EBI UK)'
+        };
+nei_34963_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+sta_35170_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+str_33095_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+pfalciparum_eg_gene
+protists_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'protists_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'protists_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL PROTISTS 14 (EBI UK)'
+        };
+bac_33304_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+pyr_38_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+alyrata_eg_gene
+ENSEMBL_MART_PLANT
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ENSEMBL_MART_PLANT',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.gramene.org',
+          'database' => 'plant_mart_32_60',
+          'redirect' => '1',
+          'includeDatasets' => '',
+          'displayName' => 'GRAMENE 30 ENSEMBL GENES (CSHL/CORNELL US)'
+        };
+dpseudoobscura_eg_gene
+metazoa_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'metazoa_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'metazoa_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL METAZOA 14 (EBI UK)'
+        };
+ehistolytica_eg_gene
+protists_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'protists_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'protists_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL PROTISTS 14 (EBI UK)'
+        };
+pnodorum_eg_gene
+fungi_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'fungi_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'fungi_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL FUNGI 14 (EBI UK)'
+        };
+esc_32465_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+mmurinus_gene_ensembl
+ensembl
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ensembl',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'ensembl_mart_68',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL GENES 68 (SANGER UK)'
+        };
+vvinifera_eg_gene
+ENSEMBL_MART_PLANT
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ENSEMBL_MART_PLANT',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.gramene.org',
+          'database' => 'plant_mart_32_60',
+          'redirect' => '1',
+          'includeDatasets' => '',
+          'displayName' => 'GRAMENE 30 ENSEMBL GENES (CSHL/CORNELL US)'
+        };
+buc_32535_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+buc_116_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+bor_31574_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+wol_31236_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+sta_35031_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+str_29285_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+sta_20865_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+bac_33366_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+esc_34269_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+bac_33314_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+btaurus_gene_ensembl
+ensembl
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ensembl',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'ensembl_mart_68',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL GENES 68 (SANGER UK)'
+        };
+nfischeri_eg_gene
+fungi_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'fungi_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'fungi_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL FUNGI 14 (EBI UK)'
+        };
+bac_33404_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+bac_32390_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+dgrimshawi_eg_gene
+metazoa_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'metazoa_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'metazoa_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL METAZOA 14 (EBI UK)'
+        };
+sta_113_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+bac_20360_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+bac_33334_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+sta_29960_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+aqueenslandica_eg_gene
+metazoa_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'metazoa_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'metazoa_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL METAZOA 14 (EBI UK)'
+        };
+bac_33398_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+esc_35368_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+csavignyi_gene_ensembl
+ensembl
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ensembl',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'ensembl_mart_68',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL GENES 68 (SANGER UK)'
+        };
+bac_37182_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+psinensis_gene_ensembl
+ensembl
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ensembl',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'ensembl_mart_68',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL GENES 68 (SANGER UK)'
+        };
+str_25749_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+apisum_eg_gene
+metazoa_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'metazoa_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'metazoa_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL METAZOA 14 (EBI UK)'
+        };
+dyakuba_eg_gene
+metazoa_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'metazoa_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'metazoa_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL METAZOA 14 (EBI UK)'
+        };
+ggraminis_eg_gene
+fungi_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'fungi_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'fungi_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL FUNGI 14 (EBI UK)'
+        };
+harabidopsidis_eg_gene
+protists_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'protists_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'protists_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL PROTISTS 14 (EBI UK)'
+        };
+celegans_gene_ensembl
+ensembl
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ensembl',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'ensembl_mart_68',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL GENES 68 (SANGER UK)'
+        };
+wol_765_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+osativa_eg_gene
+ENSEMBL_MART_PLANT
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ENSEMBL_MART_PLANT',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.gramene.org',
+          'database' => 'plant_mart_32_60',
+          'redirect' => '1',
+          'includeDatasets' => '',
+          'displayName' => 'GRAMENE 30 ENSEMBL GENES (CSHL/CORNELL US)'
+        };
+bac_33406_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+bac_33368_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+bac_33294_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+dsechellia_eg_gene
+metazoa_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'metazoa_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'metazoa_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL METAZOA 14 (EBI UK)'
+        };
+bac_25839_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+esc_31685_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+hsapiens_gene_pancreas
+Ensembl56
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'Ensembl56',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.pancreasexpression.org',
+          'database' => 'pancreas_mart_56',
+          'redirect' => '1',
+          'includeDatasets' => '',
+          'displayName' => 'PANCREATIC EXPRESSION DATABASE (INSTITUTE OF CANCER  UK)'
+        };
+str_33101_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+dmelanogaster_eg_gene
+metazoa_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'metazoa_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'metazoa_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL METAZOA 14 (EBI UK)'
+        };
+zmays_eg_gene
+ENSEMBL_MART_PLANT
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ENSEMBL_MART_PLANT',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.gramene.org',
+          'database' => 'plant_mart_32_60',
+          'redirect' => '1',
+          'includeDatasets' => '',
+          'displayName' => 'GRAMENE 30 ENSEMBL GENES (CSHL/CORNELL US)'
+        };
+str_36375_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+str_80_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+bac_33370_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+tpseudonana_eg_gene
+protists_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'protists_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'protists_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL PROTISTS 14 (EBI UK)'
+        };
+str_22229_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+creinhardtii_eg_gene
+ENSEMBL_MART_PLANT
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ENSEMBL_MART_PLANT',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.gramene.org',
+          'database' => 'plant_mart_32_60',
+          'redirect' => '1',
+          'includeDatasets' => '',
+          'displayName' => 'GRAMENE 30 ENSEMBL GENES (CSHL/CORNELL US)'
+        };
+smansoni_eg_gene
+metazoa_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'metazoa_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'metazoa_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL METAZOA 14 (EBI UK)'
+        };
+sta_32748_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+myc_25946_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+nleucogenys_gene_ensembl
+ensembl
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ensembl',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'ensembl_mart_68',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL GENES 68 (SANGER UK)'
+        };
+myc_53_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+str_34224_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+myc_32549_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+bac_33308_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+spombe_eg_gene
+fungi_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'fungi_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'fungi_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL FUNGI 14 (EBI UK)'
+        };
+esc_31896_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+bac_32328_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+dnovemcinctus_gene_ensembl
+ensembl
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ensembl',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'ensembl_mart_68',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL GENES 68 (SANGER UK)'
+        };
+str_23162_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+bac_35119_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+nhaematococca_eg_gene
+fungi_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'fungi_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'fungi_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL FUNGI 14 (EBI UK)'
+        };
+str_35544_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+athaliana_eg_gene
+ENSEMBL_MART_PLANT
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ENSEMBL_MART_PLANT',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.gramene.org',
+          'database' => 'plant_mart_32_60',
+          'redirect' => '1',
+          'includeDatasets' => '',
+          'displayName' => 'GRAMENE 30 ENSEMBL GENES (CSHL/CORNELL US)'
+        };
+bac_32740_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+tguttata_gene_ensembl
+ensembl
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ensembl',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'ensembl_mart_68',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL GENES 68 (SANGER UK)'
+        };
+buc_8_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+str_34271_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+nei_34_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+ddiscoideum_eg_gene
+protists_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'protists_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'protists_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL PROTISTS 14 (EBI UK)'
+        };
+hmelpomene_eg_gene
+metazoa_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'metazoa_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'metazoa_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL METAZOA 14 (EBI UK)'
+        };
+pknowlesi_eg_gene
+protists_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'protists_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'protists_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL PROTISTS 14 (EBI UK)'
+        };
+str_34370_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+slycopersicum_eg_gene
+ENSEMBL_MART_PLANT
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ENSEMBL_MART_PLANT',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.gramene.org',
+          'database' => 'plant_mart_32_60',
+          'redirect' => '1',
+          'includeDatasets' => '',
+          'displayName' => 'GRAMENE 30 ENSEMBL GENES (CSHL/CORNELL US)'
+        };
+gmax_eg_gene
+ENSEMBL_MART_PLANT
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ENSEMBL_MART_PLANT',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.gramene.org',
+          'database' => 'plant_mart_32_60',
+          'redirect' => '1',
+          'includeDatasets' => '',
+          'displayName' => 'GRAMENE 30 ENSEMBL GENES (CSHL/CORNELL US)'
+        };
+esc_34642_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+cremanei_eg_gene
+metazoa_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'metazoa_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'metazoa_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL METAZOA 14 (EBI UK)'
+        };
+oindica_eg_gene
+ENSEMBL_MART_PLANT
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ENSEMBL_MART_PLANT',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.gramene.org',
+          'database' => 'plant_mart_32_60',
+          'redirect' => '1',
+          'includeDatasets' => '',
+          'displayName' => 'GRAMENE 30 ENSEMBL GENES (CSHL/CORNELL US)'
+        };
+str_102_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+myc_25827_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+bac_33276_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+tsyrichta_gene_ensembl
+ensembl
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ensembl',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'ensembl_mart_68',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL GENES 68 (SANGER UK)'
+        };
+bac_33384_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+dmelanogaster_gene_ensembl
+ensembl
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ensembl',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'ensembl_mart_68',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL GENES 68 (SANGER UK)'
+        };
+sta_22064_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+esc_25686_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+bac_34854_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+esc_34372_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+ggorilla_gene_ensembl
+ensembl
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ensembl',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'ensembl_mart_68',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL GENES 68 (SANGER UK)'
+        };
+bac_33320_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+bac_33330_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+mmusculus_gene_ensembl
+ensembl
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ensembl',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'ensembl_mart_68',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL GENES 68 (SANGER UK)'
+        };
+myc_679_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+myc_25829_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+gmorhua_gene_ensembl
+ensembl
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ensembl',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'ensembl_mart_68',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL GENES 68 (SANGER UK)'
+        };
+str_33111_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+dmojavensis_eg_gene
+metazoa_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'metazoa_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'metazoa_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL METAZOA 14 (EBI UK)'
+        };
+aoryzae_eg_gene
+fungi_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'fungi_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'fungi_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL FUNGI 14 (EBI UK)'
+        };
+bac_33374_gene
+bacteria_mart_14
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'bacteria_mart_14',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '0',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'bacteria_mart_14',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL BACTERIA 14 (EBI UK)'
+        };
+sharrisii_gene_ensembl
+ensembl
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ensembl',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'ensembl_mart_68',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL GENES 68 (SANGER UK)'
+        };
+meugenii_gene_ensembl
+ensembl
+$VAR1 = {
+          'visible' => '1',
+          'name' => 'ensembl',
+          'serverVirtualSchema' => 'default',
+          'martUser' => '',
+          'default' => '1',
+          'path' => '/biomart/martservice',
+          'port' => '80',
+          'host' => 'www.biomart.org',
+          'database' => 'ensembl_mart_68',
+          'includeDatasets' => '',
+          'displayName' => 'ENSEMBL GENES 68 (SANGER UK)'
+        };

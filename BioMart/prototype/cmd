@@ -1,0 +1,2 @@
+$ ./scripts/get_biomart_orthologs.pl --s1 "zea mays" --s2 "arabidopsis thaliana" --gene_list ./gene_lists/maize_id --json biomart_homologs.json
+

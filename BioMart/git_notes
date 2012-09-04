@@ -1,0 +1,12 @@
+$ git remote add origin git@github.com:steinjosh/biomart_ortholog_query.git
+$ ssh -T git@github.com
+$ git push origin master
+
+# To synch with changes made at GitHub (e.g. the automatically generated README at the time of creating the repository)
+$ git pull git@github.com:steinjosh/biomart_ortholog_query.git
+
+# Committing changes
+$ git add xml/maize_brachypodium.xml
+$ git commit -am "Added maize_brachypodium.xml and maize_id"
+$ git push origin master
+

@@ -1,0 +1,23 @@
+martName	ENSEMBL_MART_PLANT
+timeStamp	2012-05-24 16:04:49
+species	zea mays
+assembly	AGPv2
+
+martName	ENSEMBL_MART_PLANT
+timeStamp	2012-05-24 15:59:06
+species	arabidopsis thaliana
+assembly	TAIR10
+
+visible	1
+name	ENSEMBL_MART_PLANT
+serverVirtualSchema	default
+martUser	
+default	
+path	/biomart/martservice
+port	80
+host	www.gramene.org
+database	plant_mart_32_60
+redirect	1
+includeDatasets	
+displayName	GRAMENE 30 ENSEMBL GENES (CSHL/CORNELL US)
+

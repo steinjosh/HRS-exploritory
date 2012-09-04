@@ -1,0 +1,183 @@
+
+all official sequence ids representing the sequence of the template
+alternative gene symbol for entrez gene
+amount of template shipped (ng)
+annotation pattern
+annotation strength
+APLV
+Approved gene symbol
+assay original path
+Band of chromosome where genes occur.
+Child component name 
+Child component path
+Child public id
+Chromosome Name
+chromosonal location of the gene
+comments and remarks on annotations
+comments and remarks on this image
+comments of remarks on assay quality
+comments or remarks on template processing
+concentration of template shipped
+Conjugation, 2 hour time point
+coordinate of template on the plate
+corresponding entrez gene ID from NCBI
+date on which assay was created
+DNA origin of the template
+Downregulation: corrected p-value
+Downregulation: expected number of altered samples
+Downregulation: number of altered samples
+Downregulation p-value
+Downregulation: p-value
+Downregulation: total number of samples
+EMAP ID of the annotated structure
+EMBL Accessions
+EMBL (Genebank) ID
+ENA Accessions
+End Coordinate of the gene in chromosomal coordinates.
+Ensembl Stable ID of the Gene
+Ensembl Stable ID of the Transcript
+EntrezGene ID
+Estimated vegetative period from planting to harvest
+Experiment ID
+forward 5' primer name (for all template)
+forward primer sequence, usually short < 50bp
+full length sequence
+full XML annotation file for this assay
+Gain: corrected p-value
+Gain: expected number of altered samples
+Gain: number of altered samples
+Gain p-value
+Gain: p-value
+Gain: total number of samples
+gel image id
+Gene band
+Gene biotype
+Gene chromosome
+Gene description
+gene description from EntrezGene
+genepaint id for assay
+Gene source
+Gene status
+Gene strand
+Gene symbol
+gene symbol for entrez gene
+GO ID
+GO name
+GO ontology
+GO Term ID
+ICD-O Morphology
+ICD-O Topography
+ICD-O Topography & Morphology
+identifier for the clone used for template generation via PCR or RT-PCR
+identifier of the clone image
+in-situ hybridisation unit to which the template has been sent
+InterPro Accession ID
+InterPro Description
+InterPro Short Description
+KEGG Pathway ID
+KEGG Pathway name
+lane id in gel
+Location of the SNP in the peptide
+Loss: corrected p-value
+Loss: expected number of altered samples
+Loss: number of altered samples
+Loss p-value
+Loss: p-value
+Loss: total number of samples
+miRBase ID
+miRNA accession
+miRNA ID
+Model type
+Modification location
+Number of observed phenotypes from all experiments that target this Variation
+Number of observed phenotypes from all RNAi experiments that target this gene
+Number of RNAi experiments that score for the phenotype
+Number of scored phenotypes from all experiments that target this Variation
+Number of scored phenotypes from all RNAi experiments that target this gene
+Oncomodule name
+Orientation of genes on chromosome.
+Orientation of the SNP on the Transcript
+Orthology Type
+Parent component name
+Parent component path
+Parent public id 
+Peptide Modification
+Percentage GC content
+person who creates the assay
+Platform technology
+Platform title
+PLRV
+Pool of autogamy 11 hour and 20 hour time points
+Pool of conjugation 4 hour and 7 hour time points
+Production date of the template
+promoter name of the sense promoter
+promoter name used for the generation of antisense probe
+Protein Database Accessions
+Publication authors
+Publication journal
+Publication title
+Publication year
+PUBMED
+reference sequence accession number
+reflect the status of a template sequence, completely known or partially known
+RefSeq DNA ID
+reverse 3' primer name (for all template)
+reverse primer sequence, usually short < 50 bp
+Snp Allele
+specifies if the clone is cleared for further processing or on HOLD
+Start Coordinate of the gene in chromosomal coordinates.
+Start Coordinate of the transcript in chromosomal coordinates.
+Start of SNP on Transcript in Chromosomal Coordinates
+Start of the SNP on the Chromosome in Chromosomal Coordinates
+template generating unit
+template plate number
+template shipment date to ISH unit
+template size in bp
+TFBS Binding factor
+TFBS Factor description
+TFBS ID
+TFBS Matrix ID
+TFBS Medline
+TFBS name
+The concatenated info of observed phenotypes from all experiments that target this Variation
+The concatenated info of observed phenotypes from all RNAi experiments that target this gene
+The concatenated info of phenotypes from all experiments that target this Variation
+The concatenated info of unique phenotypes from all RNAi experiments that target this gene
+The concatenated list of observed phenotype ID(s) from all experiments that target this Variation
+The concatenated list of observed phenotype ID(s) from all RNAi experiments that target this gene
+The concatenated list of phenotype ID(s) from all experiments that target this Variation
+The concatenated list of unique phenotype ID(s) from all RNAi experiments that target this gene
+Theiler stage
+The information list for RNAis that target this gene, and that result in an observation of the phenotype
+The information list for RNAis that target this gene, and that result in the phenotype
+The number of individual RNAi experiments targeting this gene that bresult in the phenotype
+The number of individual RNAi experiments whose unique target is this gene that result in the phenotype
+the original image name from Genepaint before conversion
+The phenotype IDs (one row per phenotype)
+The Phenotype Term
+Thermotolerance at 35-36 degrees C
+Thermotolerance at 38 degrees C
+The unique phenotype IDs from all RNAi experiments that target this gene (one row per phenotype)
+The unique phenotype names from all RNAi experiments that target this gene (one row per phenotype)
+this is organism display name
+total number of images for the assay
+Type of alteration (description)
+Type of alteration (short name)
+Unigene ID
+Upregulation: corrected p-value
+Upregulation: expected number of altered samples
+Upregulation: number of altered samples
+Upregulation p-value
+Upregulation: p-value
+Upregulation: total number of samples
+vector name (plasmid) containing the clone insert
+Vega Stable ID of the Gene
+Vega Stable ID of the Transcript
+Vegetative growth at the usual temperature of 27 degrees C.
+volume of template shipped (micro litre)
+when the record was last modified
+Whether or not this Phenotype has been observed for this Variation
+which section the image belongs to
+which set the image belongs to
+which slide the image belongs to
+Y = Yes  N = No 
